@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinhkhangggg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/dinhkhangggg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -25,6 +21,12 @@
   </a>
   <a href="mailto:your.email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dinhkhangggg&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -76,11 +78,15 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown" width="25" height="25" /> Just for Fun (Daily Programmer Joke)
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
-</p>
+<details>
+  <summary><b>&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown" width="20" height="20" /> Tắt code đi và cười một chút nào! (Click me)</b></summary>
+  <br/>
+  <div align="center">
+    <a href="https://readme-jokes.vercel.app">
+      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=false" alt="Jokes Card" />
+    </a>
+  </div>
+</details>
 
 <br/>
 
