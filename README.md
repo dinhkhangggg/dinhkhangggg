@@ -25,7 +25,7 @@
 - 🌱 Currently learning: **C/C++, HTML/CSS/JS, and Hardware Design**
 - 👯 Looking to collaborate on **Electronics and IoT projects**
 - 📫 Reach me out via: **[Facebook](https://www.facebook.com/dinhkhangggg420/)** or **[LinkedIn](https://www.linkedin.com/in/dinhkhangggg/)**
-- ⚡ Fun fact: **Nà ná na na**
+- 💡 My Philosophy: **"Yesterday is the past, tomorrow is the future; only the present can change what is yet to come."**
 
 <br/>
 
