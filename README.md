@@ -12,9 +12,8 @@
   </a>
 </p>
 
-<!-- spotify -->
-<!-- Trình phát nhạc Spotify sẽ hiển thị tự động tại đây -->
-<!-- /spotify -->
+<!-- SPOTIFY-NOW-PLAYING-START -->
+<!-- SPOTIFY-NOW-PLAYING-END -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dinhkhangggg/" target="_blank">
