@@ -21,8 +21,6 @@
 
 ### 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="200" />
-
 - 🎓 Student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)**
 - 🔭 Focusing on: **Embedded Systems and IoT**
 - 🌱 Currently learning: **C/C++, HTML/CSS/JS, and Hardware Design**
