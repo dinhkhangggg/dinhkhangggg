@@ -62,6 +62,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhkhangggg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
+---
+
+### 🤡 Just for Fun (Daily Programmer Joke)
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+</p>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 </div>
