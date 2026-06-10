@@ -16,20 +16,31 @@
   <img src="https://komarev.com/ghpvc/?username=dinhkhangggg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/dinhkhangggg/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/dinhkhangggg420/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-### 🚀 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
 
 - 🎓 Student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)**
 - 🔭 Focusing on: **Embedded Systems and IoT**
 - 🌱 Currently learning: **C/C++, HTML/CSS/JS, and Hardware Design**
 - 👯 Looking to collaborate on **Electronics and IoT projects**
-- 📫 Reach me out via: **[Facebook](https://www.facebook.com/dinhkhangggg420/)** or **[LinkedIn](https://www.linkedin.com/in/dinhkhangggg/)**
 - 💡 My Philosophy: **"Yesterday is the past, tomorrow is the future; only the present can change what is yet to come."**
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 💻 Software & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Software & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -39,7 +50,7 @@
   <img src="https://img.shields.io/badge/Verilog-122971?style=for-the-badge&logo=siemens&logoColor=white" alt="Verilog" />
 </p>
 
-### ⚙️ Hardware & Platforms
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Hardware & Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
@@ -49,9 +60,9 @@
   <img src="https://img.shields.io/badge/Zybo_Z7_(FPGA)-1A1A1A?style=for-the-badge&logo=xilinx&logoColor=white" alt="Zybo Z7" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 📊 GitHub Stats & Languages
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats & Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dinhkhangggg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
@@ -62,9 +73,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhkhangggg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🤡 Just for Fun (Daily Programmer Joke)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown" width="25" height="25" /> Just for Fun (Daily Programmer Joke)
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
