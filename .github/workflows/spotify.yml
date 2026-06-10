@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update Spotify Now Playing
-        uses: kittinan/spotify-github-profile@v1.1.2
+        uses: kittinan/spotify-github-profile@master
         with:
           spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
