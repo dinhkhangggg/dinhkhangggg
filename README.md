@@ -1,12 +1,15 @@
-<!-- Banner Sóng Động -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=00ffff,0000ff,8a2be2&height=250&section=header&text=Dinh%20Khang&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Embedded%20%26%20IoT%20Developer&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 </div>
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/absurdnerd/absurdnerd/master/gifs/Hi.gif" width="30px"> Hi, I'm Dinh Khang
+</h1>
 
 <!-- Terminal Hacker Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=root%40khang-pc%3A~%24+./init_profile.sh;Initializing+IoT+modules...;Loading+C%2FC%2B%2B+libraries...;Hardware+status%3A+Online;Ready+to+build+cool+things!" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=root%40khang-pc%3A~%24+./init_profile.sh;Initializing+IoT+modules...;Loading+C%2FC%2B%2B+libraries...;Hardware+status%3A+Online;Ready+to+build+cool+things!" alt="Terminal Typing" />
   </a>
 </p>
 
@@ -51,3 +54,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhkhangggg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+</div>
