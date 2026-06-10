@@ -42,11 +42,11 @@
 ### ⚙️ Hardware & Platforms
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/Altium_Designer-A5A5A5?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi 4" />
+  <img src="https://img.shields.io/badge/PIC_16F887-ED1C24?style=for-the-badge&logo=microchip&logoColor=white" alt="PIC 16F887" />
+  <img src="https://img.shields.io/badge/PIC_16F6722-ED1C24?style=for-the-badge&logo=microchip&logoColor=white" alt="PIC 16F6722" />
+  <img src="https://img.shields.io/badge/Zybo_Z7_(FPGA)-1A1A1A?style=for-the-badge&logo=xilinx&logoColor=white" alt="Zybo Z7" />
 </p>
 
 ---
