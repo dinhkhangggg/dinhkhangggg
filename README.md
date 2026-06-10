@@ -6,10 +6,9 @@
   <img src="https://raw.githubusercontent.com/absurdnerd/absurdnerd/master/gifs/Hi.gif" width="30px"> Hi, I'm Dinh Khang
 </h1>
 
-<!-- Terminal Hacker Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=root%40khang-pc%3A~%24+./init_profile.sh;Initializing+IoT+modules...;Loading+C%2FC%2B%2B+libraries...;Hardware+status%3A+Online;Ready+to+build+cool+things!" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=I+am+an+Electronics+%26+Telecommunication+Student;Passionate+about+Embedded+Systems+%26+IoT;Always+eager+to+learn+and+explore!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,14 +29,24 @@
 
 <br/>
 
-### 💻 Languages & Tools
+### 💻 Software & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,matlab&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,matlab,linux,git,vscode&theme=dark" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/Verilog-122971?style=for-the-badge&logo=siemens&logoColor=white" alt="Verilog" />
+</p>
+
+### ⚙️ Hardware & Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Altium_Designer-A5A5A5?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
 </p>
 
 ---
