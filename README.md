@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<!-- spotify -->
+<!-- Trình phát nhạc Spotify sẽ hiển thị tự động tại đây -->
+<!-- /spotify -->
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dinhkhangggg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

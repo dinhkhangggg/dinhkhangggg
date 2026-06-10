@@ -1,0 +1,20 @@
+name: Spotify Status Update
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Chạy tự động mỗi 5 phút
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update Spotify Now Playing
+        uses: kittinan/spotify-github-profile@v1.1.2
+        with:
+          spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
