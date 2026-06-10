@@ -24,12 +24,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dinhkhangggg&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
@@ -78,15 +72,13 @@
 
 ---
 
-<details>
-  <summary><b>&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown" width="20" height="20" /> Tắt code đi và cười một chút nào! (Click me)</b></summary>
-  <br/>
-  <div align="center">
-    <a href="https://readme-jokes.vercel.app">
-      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=false" alt="Jokes Card" />
-    </a>
-  </div>
-</details>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown" width="25" height="25" /> Just for Fun (Daily Programmer Joke)
+
+<p align="center">
+  <a href="https://readme-jokes.vercel.app">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=false" alt="Jokes Card" />
+  </a>
+</p>
 
 <br/>
 
