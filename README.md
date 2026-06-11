@@ -66,6 +66,14 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinhkhangggg/dinhkhangggg/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinhkhangggg/dinhkhangggg/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dinhkhangggg/dinhkhangggg/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dinhkhangggg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhkhangggg&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
@@ -97,6 +105,9 @@
     <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=false" alt="Jokes Card" />
   </a>
 </p>
+
+<!-- meme-start -->
+<!-- meme-end -->
 
 <br/>
 

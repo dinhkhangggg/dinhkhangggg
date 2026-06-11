@@ -1,0 +1,16 @@
+name: Random Dev Meme
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update README with Meme
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Blaze2004/dev-memes-for-readme@main
+        with:
+          readme_path: README.md

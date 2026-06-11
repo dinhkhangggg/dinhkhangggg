@@ -1,0 +1,16 @@
+name: Tic Taction Toe
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: jcs224/tic-taction-toe@v1.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
