@@ -11,6 +11,22 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: Blaze2004/dev-memes-for-readme@main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          readme_path: README.md
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update Meme
+        run: python update_meme.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update Random Meme" || echo "No changes to commit"
+          git push
