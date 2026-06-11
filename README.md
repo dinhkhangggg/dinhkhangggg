@@ -98,16 +98,6 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Let's Play Tic-Tac-Toe!
-
-<p align="center">
-  <a href="https://github.com/dinhkhangggg/dinhkhangggg/issues/new?template=play_tic_tac_toe.md">
-    <img src="https://img.shields.io/badge/Play%20Tic--Tac--Toe%20With%20Me!-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Play Tic-Tac-Toe" />
-  </a>
-</p>
-
----
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown" width="25" height="25" /> Just for Fun (Daily Programmer Joke)
 
 <p align="center">
