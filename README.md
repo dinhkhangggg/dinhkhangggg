@@ -62,12 +62,20 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats & Languages
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/dinhkhangggg/dinhkhangggg/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub City" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dinhkhangggg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhkhangggg&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhkhangggg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinhkhangggg&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
