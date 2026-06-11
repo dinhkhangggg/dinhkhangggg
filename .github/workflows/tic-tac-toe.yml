@@ -11,6 +11,6 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-      - uses: jcs224/tic-taction-toe@v1.1
+      - uses: AnsellMaximilian/tic-taction-toe@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

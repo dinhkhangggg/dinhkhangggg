@@ -9,7 +9,8 @@ assignees: ''
 Let's play a game of Tic-Tac-Toe! 
 
 Once you submit this issue, comment your move below!
-Type your move in this format: `tic-taction toe >>5<<` (where 5 is the square you want to play in).
+**Bước 1:** Gõ `play tic-taction-toe` để bắt đầu ván mới.
+**Bước 2:** Gõ `tic-taction-toe >>5<<` (với 5 là ô bạn muốn đánh).
 
 The board is numbered like this:
 1 | 2 | 3
