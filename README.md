@@ -30,7 +30,7 @@
 
 - 🎓 Student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)**
 - 🔭 Focusing on: **Embedded Systems and IoT**
-- 🌱 Currently learning: **Advanced C/C++, Real-Time Operating Systems (RTOS), and PCB Design**
+- 🌱 Currently learning: **C/C++, Real-Time Operating Systems (RTOS)**
 - 👯 Looking to collaborate on **Open-source Electronics and IoT projects**
 - 💡 My Philosophy: **"Yesterday is the past, tomorrow is the future; only the present can change what is yet to come."**
 
