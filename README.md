@@ -74,12 +74,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinhkhangggg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhkhangggg&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dinhkhangggg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=dinhkhangggg&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhkhangggg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dinhkhangggg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&v=1" alt="Top Languages" />
 </p>
 
 <p align="center">
