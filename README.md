@@ -107,7 +107,7 @@
 </p>
 
 <!-- meme-start -->
-<p align="center"><img src="https://i.redd.it/byfdarotpcih1.png" width="400" alt="Programming Meme" style="border-radius:10px;"/></p>
+<p align="center"><img src="https://i.redd.it/iy0opopc6lih1.png" width="400" alt="Programming Meme" style="border-radius:10px;"/></p>
 <!-- meme-end -->
 
 <br/>
