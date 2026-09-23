@@ -88,16 +88,6 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="25" height="25" /> Currently Listening To
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yz6sdddm5xuhkez57hq242ukbu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yz6sdddm5xuhkez57hq242ukbu&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false" width="400">
-  </a>
-</p>
-
----
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown" width="25" height="25" /> Just for Fun (Daily Programmer Joke)
 
 <p align="center">
