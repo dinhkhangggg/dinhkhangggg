@@ -82,6 +82,24 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dinhkhangggg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&v=1" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinhkhangggg&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Clown%20Face.png" alt="Clown" width="25" height="25" /> Just for Fun (Daily Programmer Joke)
+
+<p align="center">
+  <a href="https://readme-jokes.vercel.app">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=false" alt="Jokes Card" />
+  </a>
+</p>
+
+<!-- meme-start -->
+<p align="center"><img src="https://i.redd.it/ia2mlmto4xqh1.png" width="400" alt="Programming Meme" style="border-radius:10px;"/></p>
+<!-- meme-end -->
+
 <br/>
 
 <div align="center">
